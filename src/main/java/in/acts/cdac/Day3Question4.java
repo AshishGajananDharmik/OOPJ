@@ -9,7 +9,7 @@ public class Day3Question4 {
 		
 			 int number = 10;
 			 float number2=number;
-			 System.out.println(number2);
+			 System.out.println("result:"+number2);
 			double number3=number;
 			System.out.println(number3);
 			 boolean number4 = number != 0;
